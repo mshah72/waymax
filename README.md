@@ -21,6 +21,12 @@ deployed on hardware accelerators, such as GPUs and
 [TPUs](https://cloud.google.com/tpu).
 
 ## Installation
+### System used (requirements)
+For Windows
+Windows - 
+Architecture -
+RAM -
+Anaconda Environment - ```conda create --name waymax python=3.10```
 
 Waymax can be installed via pip using the following command:
 
